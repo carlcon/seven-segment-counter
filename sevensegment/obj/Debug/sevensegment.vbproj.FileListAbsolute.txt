@@ -1,0 +1,11 @@
+C:\Users\JC\source\repos\sevensegment\sevensegment\bin\Debug\sevensegment.exe.config
+C:\Users\JC\source\repos\sevensegment\sevensegment\bin\Debug\sevensegment.exe
+C:\Users\JC\source\repos\sevensegment\sevensegment\bin\Debug\sevensegment.pdb
+C:\Users\JC\source\repos\sevensegment\sevensegment\bin\Debug\sevensegment.xml
+C:\Users\JC\source\repos\sevensegment\sevensegment\obj\Debug\sevensegment.vbprojAssemblyReference.cache
+C:\Users\JC\source\repos\sevensegment\sevensegment\obj\Debug\sevensegment.Form1.resources
+C:\Users\JC\source\repos\sevensegment\sevensegment\obj\Debug\sevensegment.Resources.resources
+C:\Users\JC\source\repos\sevensegment\sevensegment\obj\Debug\sevensegment.vbproj.GenerateResource.cache
+C:\Users\JC\source\repos\sevensegment\sevensegment\obj\Debug\sevensegment.exe
+C:\Users\JC\source\repos\sevensegment\sevensegment\obj\Debug\sevensegment.xml
+C:\Users\JC\source\repos\sevensegment\sevensegment\obj\Debug\sevensegment.pdb
